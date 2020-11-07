@@ -27,3 +27,5 @@ def CCD(text):
          code=ord('A')
       decrypt+=chr(code)
    return decrypt
+cifru=CCE("Ana are merele")
+
