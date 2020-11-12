@@ -1,5 +1,4 @@
-#newencryptor
-#encrptor
+#BinaryEncryptor
 import time
 global crypted
 target=input("Enter your message for encrption:")
